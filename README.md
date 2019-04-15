@@ -1,5 +1,5 @@
 # ProjectTemplating (WIP)
-JSX based project 
+JSX based project templating
 ## Example
 ```tsx
 import { tagParser, createFiles } from "./main";
