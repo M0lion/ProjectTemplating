@@ -7,6 +7,6 @@
     "target": "es5",
     "jsx": "react",
     "jsxFactory": "tagParser",
-    "allowJs": true
+    "declaration": true
   }
 }

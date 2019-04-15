@@ -4,6 +4,7 @@
   "version": "0.0.1",
   "license": "MIT",
   "main": "dist/main.js",
+  "types": "dist/main.d.ts",
   "devDependencies": {
     "@babel/core": "^7.4.3",
     "@babel/plugin-transform-react-jsx": "^7.3.0",
