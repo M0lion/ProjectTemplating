@@ -1,0 +1,13 @@
+{
+  "configurations": [
+    {
+      "name": "Launch Program",
+      "type": "node",
+      "request": "launch",
+      "cwd": "${workspaceRoot}",
+      "program": "${workspaceRoot}/src/test.tsx",
+      "outFiles": ["${workspaceRoot}/dist/main.js"],
+      "sourceMaps": true
+    }
+  ]
+}
